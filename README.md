@@ -1,3 +1,8 @@
+# Construction Site Progress Detection and Monitoring using Image Processing
+The aim of this project is to study the feasibility of detecting and monitoring construction site progress using image processing. Construction progress monitoring is largely done through manual observation, exhausting time, and manpower. Succeeding in developing image processing algorithms, which would allow construction progress to be determined through the comparison of images taken at different stages of construction, would reduce the time and resources required for monitoring construction progress. 
+
+In this project, I have managed to successfully built an image processing algorithm that aligns two construction site images taken from various angles, resolutions, and construction stages, then extract construction progress information by making relevant comparisons between them.
+
 # Instructions to Run the Program
 **As the SURF algorithm used in the program was patented quite some time ago, since then it is moved to opencv_contrib. Thus, we need to install the older version of opencv_contrib as it was removed from the later versions as well.**
 
