@@ -3,6 +3,18 @@ The aim of this project is to study the feasibility of detecting and monitoring 
 
 In this project, I have managed to successfully built an image processing algorithm that aligns two construction site images taken from various angles, resolutions, and construction stages, then extract construction progress information by making relevant comparisons between them.
 
+## Input
+![Input1](resources/Input1.png)
+![Input2](resources/Input2.png)
+
+## Expected Outputs
+![Expected_Output1](resources/Expected_Output1.png)
+![Expected_Output2](resources/Expected_Output2.png)
+
+## Built On/With
+Built On : Python  
+Built With : Spyder
+
 # Instructions to Run the Program
 **As the SURF algorithm used in the program was patented quite some time ago, since then it is moved to opencv_contrib. Thus, we need to install the older version of opencv_contrib as it was removed from the later versions as well.**
 
